@@ -1,0 +1,22 @@
+1.下载git for windows    和 TottoiseGit 
+
+并默认安装
+
+2.对TottoiseGit  进行设置
+
+右键点击---TottoiseGit ----setting
+
+选择 Git---选择Global   填上Git帐户名和邮箱
+
+
+3.创建一个用于上传的项目包
+
+4.选中文件夹右键点击 git Create。。  
+创建代码仓库---ok---确定
+
+
+右键单击---Git commit----写上上传的原因
+
+下面的文件右键点击add
+
+最后点击Commit
